@@ -10,7 +10,6 @@ import {ContextBoxes} from "../live-preview/context-boxes.service";
 import {Modal} from "vebto-client/core/ui/modal.service";
 import {Projects} from '../../shared/projects/projects.service';
 import {CurrentUser} from 'vebto-client/auth/current-user';
-import {PublishProjectModalComponent} from '../../shared/projects/publish-project-modal/publish-project-modal.component';
 
 @Component({
     selector: 'inspector',
@@ -67,7 +66,11 @@ export class InspectorComponent implements OnInit {
      * Open modal for publishing currently active project.
      */
     public openPublishProjectModal() {
-        this.modal.open(PublishProjectModalComponent, {project: this.activeProject.get().model});
+      this.projects.publish(this.activeProject.get().model.id).subscribe(() => {
+        this.toast.open('Project published');
+      }, response => {
+        //this.errors = response.messages;
+      });
     }
 
     /**

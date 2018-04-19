@@ -58,7 +58,7 @@ export class Projects {
     /**
      * Publish specified project to FTP.
      */
-    public publish(projectId: number, params: FtpDetails): Observable<{project: Project}> {
-        return this.http.post('projects/'+projectId+'/publish', params);
+    public publish(projectId: number, params?: FtpDetails): Observable<{project: Project}> {
+        return this.http.post('projects/'+projectId+'/publish');
     }
 }

@@ -1,125 +1,83 @@
-<?php namespace App\Http\Controllers;
+<?php
 
-use App\Project;
-use App\Services\ProjectRepository;
-use Illuminate\Http\Request;
-use Storage;
+namespace App\Http\Controllers;
+
+use Zipper;
 use Vebto\Bootstrap\Controller;
-use League\Flysystem\Filesystem;
-use League\Flysystem\Adapter\Ftp as Adapter;
-use League\Flysystem\MountManager;
+use App\Services\ProjectRepository;
 
 class PublishProjectController extends Controller
 {
     /**
-     * Request instance.
-     *
-     * @var Request
-     */
-    private $request;
-
-    /**
-     * @var Project
-     */
-    private $project;
-
-    /**
      * @var ProjectRepository
      */
-    private $repository;
+    private $projectRepository;
 
     /**
-     * Create new PublishProjectController instance.
+     * ProjectDownloadController constructor.
      *
-     * @param Request $request
-     * @param Project $project
-     * @param ProjectRepository $repository
+     * @param ProjectRepository $projectRepository
      */
-    public function __construct(Request $request, Project $project, ProjectRepository $repository)
+    public function __construct(ProjectRepository $projectRepository)
     {
-        $this->request = $request;
-        $this->project = $project;
-        $this->repository = $repository;
+        $this->projectRepository = $projectRepository;
     }
 
+ public function deleteDirectory($dir) {
+         if (!file_exists($dir)) { return true; }
+
+         if (!is_dir($dir) || is_link($dir)) {
+             return unlink($dir);
+         }
+
+         foreach (scandir($dir) as $item) {
+             if ($item == '.' || $item == '..') { continue; }
+
+             if (!$this->deleteDirectory($dir . "/" . $item)) {
+                 chmod($dir . "/" . $item, 0777);
+                 if (!$this->deleteDirectory($dir . "/" . $item)) return false;
+             }
+         }
+
+         return rmdir($dir);
+     }
+
+  public function recursive_copy($src,$dst) {
+    $dir = opendir($src);
+    @mkdir($dst);
+    while(false !== ( $file = readdir($dir)) ) {
+        if (( $file != '.' ) && ( $file != '..' )) {
+            if ( is_dir($src . '/' . $file) ) {
+                $this->recursive_copy($src . '/' . $file,$dst . '/' . $file);
+            }
+            else {
+                copy($src . '/' . $file,$dst . '/' . $file);
+            }
+        }
+    }
+    closedir($dir);
+  }
+
     /**
-     * Find a project by id.
+     * Download specified project as a .zip
      *
      * @param int $id
-     * @return \Illuminate\Http\JsonResponse
+     * @return \Symfony\Component\HttpFoundation\BinaryFileResponse
      * @throws \Illuminate\Auth\Access\AuthorizationException
      */
     public function publish($id)
     {
-        $project = $this->project->findOrFail($id);
+        $project = $this->projectRepository->findOrFail($id);
 
-        $this->authorize('publish', $project);
+        $this->authorize('download', $project);
 
-        $this->validate($this->request, [
-            'host' => 'required|string|min:1',
-            'username' => 'required|string|min:1',
-            'password' => 'required|string|min:1',
-            'port' => 'integer|min:1',
-            'root' => 'string|min:1',
-            'ssl' => 'required|boolean',
-        ]);
+        $source = config('filesystems.disks.public.root').'/'.$this->projectRepository->getProjectPath($project);
 
-        try {
-            $this->publishToFtp($project);
-        } catch (\Exception $e) {
-            return $this->error(['general' => $e->getMessage()]);
-        }
+        $this->deleteDirectory('/var/www/'.$id);
+        $this->deleteDirectory('/var/www/'.$project->name);
+        mkdir('/var/www/'.$project->name);
+        $this->recursive_copy($source, '/var/www/'.$project->name);
 
-        return $this->success();
-    }
-
-    /**
-     * Publish specified project to FTP using flysystem.
-     *
-     * @param Project $project
-     */
-    public function publishToFtp(Project $project)
-    {
-        $directory = $this->request->get('directory', '/');
-
-        $ftp = new Filesystem(new Adapter([
-            'host' => $this->request->get('host'),
-            'username' => $this->request->get('username'),
-            'password' => $this->request->get('password'),
-            'port' => $this->request->get('port', $this->getDefaultPort()),
-            'passive' => true,
-            'ssl' => $this->request->get('ssl', false),
-            'timeout' => 30,
-        ]));
-
-        $manager = new MountManager([
-            'ftp' => $ftp,
-            'local' => Storage::disk('public')->getDriver(),
-        ]);
-
-        if ( ! $ftp->has($directory)) {
-            $ftp->createDir($directory);
-        }
-
-        $projectRoot = $this->repository->getProjectPath($project);
-        foreach ($manager->listContents("local://$projectRoot", true) as $file) {
-            if ($file['type'] !== 'file') continue;
-            $filePath = str_replace($projectRoot, $directory, $file['path']);
-
-            //delete old files from ftp
-            if ($ftp->has($filePath)) $ftp->delete($filePath);
-
-            //copy file from local disk to ftp
-            $manager->copy('local://'.$file['path'], 'ftp://'.$filePath);
-        }
-    }
-
-    /**
-     * Get default port for ftp.
-     *
-     * @return int
-     */
-    private function getDefaultPort() {
-        return $this->request->get('ssl') ? 22 : 21;
+        return $this->success(['url' => 'http://www.'.$project->name.'ccbizon.com']);
     }
 }
