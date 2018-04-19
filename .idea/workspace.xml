@@ -2,29 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/index.js" afterPath="$PROJECT_DIR$/client/node_modules/globby/index.js" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/license" afterPath="$PROJECT_DIR$/client/node_modules/globby/license" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/package.json" afterPath="$PROJECT_DIR$/client/node_modules/globby/package.json" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/readme.md" afterPath="$PROJECT_DIR$/client/node_modules/globby/readme.md" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector.component.ts" afterPath="$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector.component.ts" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/projects/projects.service.ts" afterPath="$PROJECT_DIR$/client/src/app/shared/projects/projects.service.ts" />
-      <change beforePath="$PROJECT_DIR$/dist/html-builder.module.34a28e26c31a9810366d.chunk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/inline.f1a2bce88b0cce5944ba.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/main.938d244d79f0fbddc4b4.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="$PROJECT_DIR$/dist/stats.json" />
-      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/html-builder.module.34a28e26c31a9810366d.chunk.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/inline.f1a2bce88b0cce5944ba.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main.938d244d79f0fbddc4b4.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/server/resources/views/app.blade.php" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/P7lGqAzhc7zvCF8VrIUHn9C9rRHyY5r26HP2bvtO" afterPath="$PROJECT_DIR$/server/storage/framework/sessions/P7lGqAzhc7zvCF8VrIUHn9C9rRHyY5r26HP2bvtO" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/j1I4cfCtMy0IB7kTz9unn98WBSWhiQR1FuDNZZIY" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/joAZN4voMCNspoP5D7Lws1ZG2LQ5z7OcmbPrK71K" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/nu3mz8Lo6OzcWan7qMaGhyYl7j6NMipuLVAMLMAW" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" afterPath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" />
-      <change beforePath="$PROJECT_DIR$/server/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/server/storage/logs/laravel.log" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/custom_elements.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/framework.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/template.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/css/theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-brands-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-brands-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-brands-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-brands-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-brands-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-regular-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-regular-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-regular-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-regular-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-regular-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-solid-900.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-solid-900.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-solid-900.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-solid-900.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fa-solid-900.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/cabin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/cake.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/circus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/game.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/safe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/portfolio/submarine.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/images/profile.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/animated-header.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/bootstrap-validation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/classy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/framework.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/jquery-easing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/scripts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/js/template.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/myhouse.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/51/tpLjAyiQW9Dkp3hVCK2nlaZijhHRyrrzIsBf/thumbnail.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -426,12 +452,12 @@
       <workItem from="1524119103546" duration="4782000" />
       <workItem from="1524125858403" duration="502000" />
       <workItem from="1524129834831" duration="9535000" />
-      <workItem from="1524151074073" duration="6578000" />
+      <workItem from="1524151074073" duration="6941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110391000" />
+    <option name="totallyTimeSpent" value="110754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1217" height="812" extended-state="6" />
@@ -445,7 +471,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25075987" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4787234" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
