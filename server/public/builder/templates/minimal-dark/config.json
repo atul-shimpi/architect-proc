@@ -5,6 +5,8 @@
     "theme": "default",
     "libraries": [
         "chart",
-        "classy"
+        "classy",
+        "google-maps",
+        "ccbizon-components"
     ]
 }

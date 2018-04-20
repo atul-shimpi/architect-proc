@@ -5,6 +5,7 @@
     "theme": "Yeti",
     "libraries": [
         "google-maps",
-        "jquery-easing"
+        "jquery-easing",
+        "ccbizon-components"
     ]
 }

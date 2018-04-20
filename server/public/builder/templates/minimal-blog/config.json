@@ -3,5 +3,8 @@
     "color": "white",
     "category": "Blog",
     "theme": "default",
-    "libraries": []
+    "libraries": [
+    "google-maps",
+    "ccbizon-components"
+    ]
 }

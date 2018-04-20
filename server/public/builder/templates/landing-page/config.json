@@ -3,5 +3,8 @@
     "color": "Gray",
     "category": "Landing Page",
     "theme": "Flatly",
-    "libraries": []
+    "libraries": [
+        "google-maps",
+        "ccbizon-components"
+    ]
 }
