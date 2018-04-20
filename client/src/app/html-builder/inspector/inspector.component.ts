@@ -20,6 +20,7 @@ import {CurrentUser} from 'vebto-client/auth/current-user';
 export class InspectorComponent implements OnInit {
     @ViewChild('deviceSwitcher') private deviceSwitcher: DeviceSwitcherComponent;
 
+    public publishing: boolean = false;
     /**
      * InspectorComponent Constructor.
      */
@@ -34,7 +35,7 @@ export class InspectorComponent implements OnInit {
         private settings: Settings,
         private contextBoxes: ContextBoxes,
         private modal: Modal,
-        public currentUser: CurrentUser,
+        public currentUser: CurrentUser
     ) {}
 
     ngOnInit() {
@@ -66,9 +67,12 @@ export class InspectorComponent implements OnInit {
      * Open modal for publishing currently active project.
      */
     public openPublishProjectModal() {
+      this.publishing = true;
       this.projects.publish(this.activeProject.get().model.id).subscribe(() => {
+        this.publishing = false;
         this.toast.open('Project published');
       }, response => {
+        this.publishing = false;
         //this.errors = response.messages;
       });
     }

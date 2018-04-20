@@ -54,7 +54,7 @@
     <device-switcher #deviceSwitcher></device-switcher>
 
     <div class="actions">
-        <mat-progress-bar mode="indeterminate" *ngIf="activeProject.saving" color="accent"></mat-progress-bar>
+        <mat-progress-bar mode="indeterminate" *ngIf="activeProject.saving || publishing" color="accent"></mat-progress-bar>
         <button (click)="openPreview()" [disabled]="activeProject.saving" mat-button matTooltip="Preview"><svg-icon name="visibility"></svg-icon></button>
         <button (click)="downloadProject()" [disabled]="!currentUser.hasPermission('projects.download')" mat-button matTooltip="Download"><svg-icon name="file-download"></svg-icon></button>
         <button (click)="openPublishProjectModal()" [disabled]="!currentUser.hasPermission('projects.publish')" mat-button matTooltip="Publish"><svg-icon name="publish"></svg-icon></button>
