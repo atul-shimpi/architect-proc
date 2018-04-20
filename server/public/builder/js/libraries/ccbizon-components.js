@@ -12,12 +12,20 @@ $(function () {
             shopSubdomain = window.location.host.split('.')[0];
         }
 
-        console.log('Subdomain : ' + shopSubdomain);
 
-        $.get('http://ccbizon.com/business_user/shops.json?subdomain=' + shopSubdomain, showMap);
+        var host = 'http://ccbizon.com';
+
+        if ( shopSubdomain.indexOf('localhost') !== -1 ) {
+            host = 'http://localhost:3000';
+            shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
+        }
+
+        console.log('Url' + host + '/business_user/shops.json?subdomain=' + shopSubdomain);
+
+        $.get(host + '/business_user/shops.json?subdomain=' + shopSubdomain, showMap);
 
         function showMap(data) {
-        console.log('shop ' + data.address);
+            console.log('shop ' + data.address);
 
             geocoder = new google.maps.Geocoder();
             data.address = data.address || 'Pune';
@@ -50,7 +58,7 @@ $(function () {
                         animation: google.maps.Animation.BOUNCE
                     });
                 } else {
-                    alert('Geocode was not successful for the following reason: ' + status);
+                    alert('Geocode was not successful for the following reason: ' + status + " " + results);
                 }
             });
 
@@ -60,7 +68,7 @@ $(function () {
     }
 
     $(document).ready(function () {
-       initMap();
+        initMap();
     });
     //google.maps.event.addDomListener(document, 'ready', initMap);
 });
