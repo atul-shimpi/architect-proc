@@ -2,5 +2,11 @@
     "name": "Stylish Portfolio",
     "color": "blue",
     "category": "Portfolio",
-    "theme": "Yeti"
+    "theme": "Yeti",
+    "libraries": [
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

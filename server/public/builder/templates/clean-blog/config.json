@@ -3,5 +3,10 @@
     "color": "white",
     "category": "Blog",
     "theme": "Yeti",
-    "libraries": []
+    "libraries": [
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

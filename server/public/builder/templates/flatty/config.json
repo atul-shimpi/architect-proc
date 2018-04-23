@@ -3,5 +3,9 @@
     "color": "gray",
     "category": "Landing Page",
     "theme": "Flatly",
-    "libraries": []
+    "libraries": [
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

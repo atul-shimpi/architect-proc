@@ -3,5 +3,10 @@
     "color": "green",
     "category": "Portfolio",
     "theme": "default",
-    "libraries": []
+    "libraries": [
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

@@ -4,5 +4,10 @@
     "framework": "bootstrap-4",
     "theme": "cerulean",
     "display_name": "resume",
+    "libraries": [
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ],
     "_method": "PUT"
 }

@@ -6,6 +6,9 @@
     "libraries": [
         "jquery-rss",
         "mustache",
-        "github-activity"
+        "github-activity",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
     ]
 }

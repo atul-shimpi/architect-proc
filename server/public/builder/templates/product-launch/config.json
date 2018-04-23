@@ -3,5 +3,9 @@
     "color": "yallow",
     "category": "Landing Page",
     "theme": "default",
-    "libraries": []
+    "libraries": [
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

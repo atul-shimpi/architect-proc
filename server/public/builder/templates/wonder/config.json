@@ -4,6 +4,9 @@
     "category": "landing page",
     "theme": "default",
     "libraries": [
-        "jquery-easing"
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
     ]
 }

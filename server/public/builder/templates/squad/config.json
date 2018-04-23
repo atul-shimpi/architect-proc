@@ -6,6 +6,7 @@
     "libraries": [
         "jquery-easing",
         "scroll-to",
-        "wow"
+        "wow",
+        "ccbizon-components"
     ]
 }

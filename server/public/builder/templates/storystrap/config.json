@@ -3,5 +3,10 @@
     "color": "blue",
     "category": "Blog",
     "theme": "Readable",
-    "libraries": []
+    "libraries": [
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }

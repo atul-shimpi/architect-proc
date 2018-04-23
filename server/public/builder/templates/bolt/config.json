@@ -5,6 +5,9 @@
     "category": "Portfolio",
     "theme": "Paper",
     "libraries": [
-        "chart"
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
     ]
 }

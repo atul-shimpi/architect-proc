@@ -9,7 +9,8 @@
         "classy",
         "animated-header",
         "bootstrap-validation",
-        "jquery-easing"
+        "jquery-easing",
+        "ccbizon-components"
     ],
     "_method": "PUT"
 }

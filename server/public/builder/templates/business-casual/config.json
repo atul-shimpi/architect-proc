@@ -4,7 +4,8 @@
     "category": "Landing Page",
     "theme": "Paper",
     "libraries": [
-        "google-maps",
-        "jquery-easing"
+        "jquery-easing",
+        "bootstrap-validation",
+        "ccbizon-components"
     ]
 }

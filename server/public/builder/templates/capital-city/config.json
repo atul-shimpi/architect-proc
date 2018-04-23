@@ -3,5 +3,10 @@
     "color": "purple",
     "category": "Landing Page",
     "theme": "Yeti",
-    "libraries": []
+    "libraries": [
+        "chart",
+        "bootstrap-validation",
+        "jquery-easing",
+        "ccbizon-components"
+    ]
 }
