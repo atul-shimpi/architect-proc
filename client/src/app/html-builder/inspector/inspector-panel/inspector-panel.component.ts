@@ -47,7 +47,13 @@ export class InspectorPanelComponent {
     }
 
     public openUploadImageModal() {
-        const data = {uri: 'uploads/images', httpParams: {path: this.activeProject.getBaseUrl(true)+'images'}};
+        const data = {
+          uri: 'uploads/images',
+          httpParams: {
+            'project-name': this.activeProject.get().model.name,
+            path: this.activeProject.getBaseUrl(true)+'images'
+          }
+        };
         this.modal.open(UploadFileModalComponent, data).afterClosed().subscribe(url => {
             if ( ! url) return;
             this.livePreview.selected.node['src'] = url;
