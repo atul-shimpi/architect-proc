@@ -8,7 +8,6 @@
         "animated-header",
         "jquery-easing",
         "bootstrap-validation",
-        "google-maps",
         "ccbizon-components"
     ]
 }

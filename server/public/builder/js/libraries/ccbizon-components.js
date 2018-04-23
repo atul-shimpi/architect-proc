@@ -1,22 +1,41 @@
 $(function () {
 
-    function initMap() {
-        // get lat/long from address
-        var shopSubdomain = null;
+    var shopSubdomain = null;
 
-        if ( window.location !== window.parent.location ) {
-            console.log('Design Mode, Url ' + window.parent.location.href);
-            shopSubdomain = window.parent.location.href.split('/')[5];
+    if ( window.location !== window.parent.location ) {
+        console.log('Design Mode, Url ' + window.parent.location.href);
+        shopSubdomain = window.parent.location.href.split('/')[5];
+    } else {
+        console.log('Run Mode, url ' + window.location.href);
+
+
+        const path = window.location.pathname.split('/')[1];
+
+        // user in preview mode
+        if (path === 'sites') {
+            shopSubdomain = window.location.pathname.split('/')[2];
+            console.log('User in Previw mode');
         } else {
-            console.log('Run Mode, url ' + window.location.href);
+            // user is in published mode
             shopSubdomain = window.location.host.split('.')[0];
+            console.log('User in publish mode');
         }
+    }
+
+    function initMap() {
+
 
 
         var host = 'http://ccbizon.com';
 
+        //seeing preview on dev box
         if ( shopSubdomain.indexOf('localhost') !== -1 ) {
             host = 'http://localhost:3000';
+            shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
+        }
+
+        //seeing preview on production box
+        if ( shopSubdomain.indexOf('ccbizon.com:8081') !== -1 ) {
             shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
         }
 
@@ -45,7 +64,7 @@ $(function () {
                     var mapCanvas = document.getElementById('map');
                     var mapOptions = {
                         center: location,
-                        zoom: 16,
+                        zoom: 12,
                         panControl: false,
                         mapTypeId: google.maps.MapTypeId.ROADMAP
                     }
@@ -63,11 +82,51 @@ $(function () {
             });
 
         }
+    }
 
+    function loadGoogleMap(){
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBFonMgy8pTD4S-xy16H7bJ7_TkqU8CUiI&sensor=false&' + 'callback=initialize';
+        document.body.appendChild(script);
+    }
 
+    function setImgUrls(subDomain) {
+        var this_ = this;
+        this_.subDomain = subDomain;
+        console.log('setImgulr subdomain : ' + subDomain);
+        console.log('calling setimgurl ' + window.location.pathname);
+        // user is in design mode
+        if (window.location !== window.parent.location) {
+          console.log('inside set Img ulr : user is designing');
+          return;
+        }
+
+        $('img').each(function () {
+            var imgTag= $(this);
+            const imgPaths = $(this).attr('src').split('/');
+
+            console.log('image is in s3');
+            var imgName = imgPaths[imgPaths.length - 1];
+            console.log('Image name : ' + imgName);
+
+            if(imgName.length >= 30) {
+                const s3Url = `https://s3.amazonaws.com/ccbizon-backend/${this_.subDomain}/assets/images/${imgName}`;
+
+                imgTag.attr('src', s3Url);
+            } else {
+                console.log('image is on localhost');
+            }
+
+        });
+
+        //$('img').attr('src', `https://s3.amazonaws.com/${subDomain}/assets/images/tile.png`);
     }
 
     $(document).ready(function () {
+        console.log('Shop subdomain : ' + shopSubdomain);
+        setImgUrls(shopSubdomain);
+        loadGoogleMap();
         initMap();
     });
     //google.maps.event.addDomListener(document, 'ready', initMap);

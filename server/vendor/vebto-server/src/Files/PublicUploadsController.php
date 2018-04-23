@@ -88,13 +88,13 @@ class PublicUploadsController extends Controller {
             //upload_asset('hotel.com', public_path().'/storage/'.$file['path']);
             $client = new Client();
 
-           $response = $client->request('POST', 'http://localhost:3000/site-assets', [
+           $response = $client->request('POST', 'http://localhost:3001/site-assets', [
                //indicates multipart form
                'multipart' => [
                  //a regular field. name of the field is 'username'
                  [
                    'name'     => 'domain',
-                   'contents' => 'hotel.com'
+                   'contents' => $this->request->get('project-name')
                  ],
                  [
                    'name' => 'asset',
