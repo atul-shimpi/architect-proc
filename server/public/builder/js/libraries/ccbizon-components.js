@@ -1,6 +1,7 @@
 
 
     var shopSubdomain = null;
+    var host = 'http://ccbizon.com';
 
     if ( window.location !== window.parent.location ) {
         console.log('Design Mode, Url ' + window.parent.location.href);
@@ -24,7 +25,7 @@
 
     function initMap() {
         console.log('shopSubdomain : ' + shopSubdomain);
-        var host = 'http://ccbizon.com';
+
 
         //seeing preview on dev box
         if ( window.location.host.indexOf('localhost') !== -1 ) {
@@ -146,10 +147,13 @@
 
             console.log('host ' + host);
 
+
+            $('#send-email').text('Sending...');
             $.post(host + '/business_user/shop/sales/mail', email_info, function(data) {
-                alert('Message send');
+                $('#send-email').text('Send');
             })
                 .fail(function (data) {
+                    $('#send-email').text('Send');
                     alert('Message could not be send' + JSON.stringify(data));
                 });
         });

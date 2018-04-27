@@ -3,141 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="$PROJECT_DIR$/dist/stats.json" />
-      <change beforePath="$PROJECT_DIR$/dist/vendor.bcf53b9fbf233aa15e77.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" afterPath="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
       <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/vendor.bcf53b9fbf233aa15e77.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/49/y3KVLKQH2xploubNMrXaZh9Y28P1wF4Pwxol/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/49/y3KVLKQH2xploubNMrXaZh9Y28P1wF4Pwxol/index.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/LICENSE" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/config.json" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/custom_elements.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/framework.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/framework.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/styles.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/template.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/template.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/theme.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/theme.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/2.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/3.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/4.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/4.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/header-bg.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/header-bg.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/aetuts.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/aetuts.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/creative-market.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/creative-market.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/designmodo.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/designmodo.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/envato.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/envato.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/microlancer.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/microlancer.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/themeforest.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/themeforest.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/wordpress.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/wordpress.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/map-image.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/map-image.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams-preview.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape-preview.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden-preview.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons-free.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework-preview.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse-preview.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/2.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/3.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/index.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/animated-header.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/animated-header.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/bootstrap-validation.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/bootstrap-validation.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/classy.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/classy.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/framework.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/framework.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery-easing.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery-easing.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/scripts.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/template.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/template.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/thumbnail.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/about.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/about.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog01.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog01.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/config.json" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/contact.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/contact.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/custom_elements.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/framework.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/framework.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/styles.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/template.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/template.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/theme.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/theme.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/blog01.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/blog01.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/loader.gif" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/loader.gif" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/2.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/3.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port01.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port01.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port02.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port02.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port03.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port03.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port04.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port04.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port05.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port05.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port06.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port06.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/user.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/user.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/zoom.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/zoom.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/index.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/framework.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/framework.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/scripts.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/template.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/template.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/thumbnail.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work01.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work01.html" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/server/resources/views/app.blade.php" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/6XiZuLq3eFOp3ev3Vo5DWalI2LAW0O3oyD4Mmxhl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" afterPath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/BCPLeYJGvrPmOhQnXpHOJ9QpZ17FSW5nFrB5rLoj" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/sR74OfXNnMqHbkQv362IascZoqdCbZvfuyXhq0FW" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -154,8 +24,20 @@
       <file leaf-file-name="emailUs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ccbizon-components.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="151" column="32" lean-forward="false" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -229,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server/vendor/vebto-server/src/Files/Uploads.php" />
         <option value="$PROJECT_DIR$/server/vendor/vebto-server/src/Files/UploadsController.php" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/AnalyticsController.php" />
         <option value="$PROJECT_DIR$/client/node_modules/vebto-client/core/files/upload-file-modal/upload-file-modal.component.ts" />
@@ -278,6 +159,7 @@
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/zE42wq9h4dJ3FJMDBSxpbTkVqxCYrGqN84yC/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
       </list>
@@ -367,51 +249,17 @@
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="storage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
@@ -531,17 +379,18 @@
       <workItem from="1524664400715" duration="2633000" />
       <workItem from="1524721504594" duration="5644000" />
       <workItem from="1524731235643" duration="9266000" />
-      <workItem from="1524801330614" duration="8593000" />
+      <workItem from="1524801330614" duration="13799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180459000" />
+    <option name="totallyTimeSpent" value="185665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="804" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17201646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23539095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44984803" sideWeight="0.50288063" order="7" side_tool="true" content_ui="tabs" />
@@ -549,7 +398,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41641337" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24468085" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -604,13 +453,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector-panel/inspector-panel.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/templates/agency/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
@@ -961,14 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="154" column="11" lean-forward="false" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/elements/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -977,11 +811,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="144" column="0" lean-forward="false" selection-start-line="132" selection-start-column="8" selection-end-line="161" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="151" column="32" lean-forward="false" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="154">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
