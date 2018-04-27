@@ -1,4 +1,4 @@
-$(function () {
+
 
     var shopSubdomain = null;
 
@@ -23,19 +23,19 @@ $(function () {
     }
 
     function initMap() {
-
-
-
+        console.log('shopSubdomain : ' + shopSubdomain);
         var host = 'http://ccbizon.com';
 
         //seeing preview on dev box
-        if ( shopSubdomain.indexOf('localhost') !== -1 ) {
+        if ( window.location.host.indexOf('localhost') !== -1 ) {
+            console.log('Running on localhost');
             host = 'http://localhost:3000';
             shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
         }
 
         //seeing preview on production box
-        if ( shopSubdomain.indexOf('ccbizon.com:8081') !== -1 ) {
+        if ( window.location.host.indexOf('ccbizon.com') !== -1 ) {
+            console.log('Running on production');
             shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
         }
 
@@ -87,7 +87,7 @@ $(function () {
     function loadGoogleMap(){
         var script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBFonMgy8pTD4S-xy16H7bJ7_TkqU8CUiI&sensor=false&' + 'callback=initialize';
+        script.src = "https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyBFonMgy8pTD4S-xy16H7bJ7_TkqU8CUiI&sensor=false&callback=initialize";
         document.body.appendChild(script);
     }
 
@@ -106,16 +106,16 @@ $(function () {
             var imgTag= $(this);
             const imgPaths = $(this).attr('src').split('/');
 
-            console.log('image is in s3');
+            //console.log('image is in s3');
             var imgName = imgPaths[imgPaths.length - 1];
-            console.log('Image name : ' + imgName);
+            //console.log('Image name : ' + imgName);
 
             if(imgName.length >= 30) {
                 const s3Url = `https://s3.amazonaws.com/ccbizon-backend/${this_.subDomain}/assets/images/${imgName}`;
 
                 imgTag.attr('src', s3Url);
             } else {
-                console.log('image is on localhost');
+                //console.log('image is on localhost');
             }
 
         });
@@ -128,6 +128,29 @@ $(function () {
         setImgUrls(shopSubdomain);
         loadGoogleMap();
         initMap();
+
+        $('#send-email').click(function () {
+            if($('#sender-email').val().length == 0) {
+                alert('Please specify your email address');
+                return;
+            }
+            var email_info = {};
+
+            email_info.fullname = $('#fullname').val();
+            email_info.email = $('#sender-email').val();
+            email_info.url = window.location.href;
+            email_info.subject = $('#email-subject').val();
+            email_info.message = $('#email-body').val();
+
+            console.log('email_info : ' + JSON.stringify(email_info));
+
+            console.log('host ' + host);
+
+            $.post(host + '/business_user/shop/sales/mail', email_info, function(data) {
+                alert('Message send');
+            })
+                .fail(function (data) {
+                    alert('Message could not be send' + JSON.stringify(data));
+                });
+        });
     });
-    //google.maps.event.addDomListener(document, 'ready', initMap);
-});

@@ -2,22 +2,142 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/agency/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/agency/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/bolt/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/bolt/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/business-casual/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/business-casual/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/capital-city/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/capital-city/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/clean-blog/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/clean-blog/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/developer/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/developer/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/flatty/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/flatty/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/pratt/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/pratt/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/product-launch/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/product-launch/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/resume/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/resume/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/squad/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/squad/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/stanley/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/stanley/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/storystrap/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/storystrap/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/stylish-portfolio/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/stylish-portfolio/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/templates/wonder/config.json" afterPath="$PROJECT_DIR$/server/public/builder/templates/wonder/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/6XiZuLq3eFOp3ev3Vo5DWalI2LAW0O3oyD4Mmxhl" afterPath="$PROJECT_DIR$/server/storage/framework/sessions/6XiZuLq3eFOp3ev3Vo5DWalI2LAW0O3oyD4Mmxhl" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts" afterPath="$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="$PROJECT_DIR$/dist/stats.json" />
+      <change beforePath="$PROJECT_DIR$/dist/vendor.bcf53b9fbf233aa15e77.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/vendor.bcf53b9fbf233aa15e77.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/49/y3KVLKQH2xploubNMrXaZh9Y28P1wF4Pwxol/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/49/y3KVLKQH2xploubNMrXaZh9Y28P1wF4Pwxol/index.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/LICENSE" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/config.json" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/config.json" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/custom_elements.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/framework.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/framework.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/styles.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/template.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/template.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/theme.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/css/theme.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-brands-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-regular-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fa-solid-900.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/4.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/about/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/header-bg.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/header-bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/aetuts.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/aetuts.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/creative-market.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/creative-market.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/designmodo.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/designmodo.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/envato.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/envato.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/microlancer.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/microlancer.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/themeforest.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/themeforest.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/wordpress.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/logos/wordpress.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/map-image.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/map-image.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams-preview.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/dreams.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape-preview.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/escape.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden-preview.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/golden.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons-free.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons-free.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/roundicons.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework-preview.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/startup-framework.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse-preview.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse-preview.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/portfolio/treehouse.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/images/team/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/index.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/animated-header.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/animated-header.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/bootstrap-validation.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/bootstrap-validation.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/classy.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/classy.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/framework.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/framework.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery-easing.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery-easing.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/template.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/js/template.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/ZeI3vlYf5TGSmF3kxhOhlx0VJ8VEYavTtone/thumbnail.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/about.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/about.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog01.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/blog01.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/config.json" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/config.json" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/contact.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/contact.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/custom_elements.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/framework.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/framework.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/styles.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/template.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/template.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/theme.css" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/css/theme.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-brands-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-regular-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fa-solid-900.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/blog01.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/blog01.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/loader.gif" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/loader.gif" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/1.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/2.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/3.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port01.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port01.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port02.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port02.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port03.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port03.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port04.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port04.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port05.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port05.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port06.jpg" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/portfolio/port06.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/user.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/user.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/zoom.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/images/zoom.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/index.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/index.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/framework.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/framework.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/template.js" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/js/template.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/thumbnail.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work01.html" afterPath="$PROJECT_DIR$/server/public/storage/projects/50/u57NCg1crDX7NI1WyYTdIexyjj4K3nfu3rdm/work01.html" />
+      <change beforePath="$PROJECT_DIR$/server/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/server/resources/views/app.blade.php" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/6XiZuLq3eFOp3ev3Vo5DWalI2LAW0O3oyD4Mmxhl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" afterPath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,51 +151,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scratch_2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt">
+      <file leaf-file-name="emailUs.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="5" column="20" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/templates/storystrap/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/templates/stylish-portfolio/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/templates/wonder/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/templates/bolt/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,12 +173,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getProjectPath</find>
-      <find>local</find>
-      <find>downloadproject</find>
-      <find>ActiveProject</find>
-      <find>deleteDirectory</find>
-      <find>hoverZoom</find>
       <find>localhost</find>
       <find>save</find>
       <find>download</find>
@@ -123,6 +197,12 @@
       <find>upload</find>
       <find>project-name</find>
       <find>openuploadimagemodal</find>
+      <find>redirect</find>
+      <find>alert</find>
+      <find>initialize</find>
+      <find>grey</find>
+      <find>google-custom</find>
+      <find>subdomain</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/client/src/app/admin</dir>
@@ -132,12 +212,15 @@
       <dir>$PROJECT_DIR$/client/src/app</dir>
       <dir>$PROJECT_DIR$/client/src/app/html-builder/html-builder</dir>
       <dir>$PROJECT_DIR$/client</dir>
-      <dir>$PROJECT_DIR$/client/node_modules/vebto-client</dir>
       <dir>$PROJECT_DIR$/server/public</dir>
       <dir>$PROJECT_DIR$/server/app</dir>
-      <dir>$PROJECT_DIR$/server</dir>
       <dir>$PROJECT_DIR$/client/src/app/html-builder</dir>
       <dir>$PROJECT_DIR$/client/src</dir>
+      <dir>$PROJECT_DIR$/client/node_modules/vebto-client</dir>
+      <dir>$PROJECT_DIR$/server/public/builder</dir>
+      <dir>$PROJECT_DIR$/server/public/builder/templates/freelancer</dir>
+      <dir>$PROJECT_DIR$/server</dir>
+      <dir>$PROJECT_DIR$/server/public/client</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -146,21 +229,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client-2.0.5/node_modules/@angular/cli/models/webpack-configs/styles.js" />
-        <option value="$PROJECT_DIR$/client/package.json" />
-        <option value="$PROJECT_DIR$/client/src/app/shared/shared.module.ts" />
-        <option value="$PROJECT_DIR$/client/src/app/html-builder/html-builder.module.ts" />
-        <option value="$PROJECT_DIR$/client/src/app/html-builder/project-saved-guard.service.ts" />
-        <option value="$PROJECT_DIR$/server/app/Http/Controllers/ProjectsController.php" />
-        <option value="$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-modal/new-project-modal.component.ts" />
-        <option value="$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-modal/new-project-modal.component.html" />
         <option value="$PROJECT_DIR$/server/vendor/vebto-server/src/Files/Uploads.php" />
         <option value="$PROJECT_DIR$/server/vendor/vebto-server/src/Files/UploadsController.php" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/AnalyticsController.php" />
         <option value="$PROJECT_DIR$/client/node_modules/vebto-client/core/files/upload-file-modal/upload-file-modal.component.ts" />
         <option value="$PROJECT_DIR$/client/node_modules/vebto-client/core/files/uploads.service.ts" />
         <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.module.ts" />
-        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.ts" />
         <option value="$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/ProjectDownloadController.php" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
@@ -179,7 +253,6 @@
         <option value="$PROJECT_DIR$/server/vendor/vebto-server/src/Files/PublicUploadsController.php" />
         <option value="$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector-panel/background-panel/image-background-panel/image-background-panel.component.ts" />
         <option value="$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector-panel/inspector-panel.component.ts" />
-        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/agency/config.json" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/bolt/config.json" />
@@ -197,6 +270,16 @@
         <option value="$PROJECT_DIR$/server/public/builder/templates/storystrap/config.json" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/stylish-portfolio/config.json" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/wonder/config.json" />
+        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts" />
+        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts" />
+        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/1/O4Dcm5AXMkWAZwdQcra0U1c3fxD7z92iPLRR/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/1/zE42wq9h4dJ3FJMDBSxpbTkVqxCYrGqN84yC/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
       </list>
     </option>
   </component>
@@ -230,7 +313,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,16 +352,8 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="wonder" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
@@ -287,6 +361,57 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
@@ -322,6 +447,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -329,21 +455,22 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/assets-service-v2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dist" />
-      <recent name="$PROJECT_DIR$/server/public/client" />
-      <recent name="$PROJECT_DIR$/server/public/client/assets/images" />
-      <recent name="$PROJECT_DIR$/client/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/server/public/builder/js/libraries" />
       <recent name="$PROJECT_DIR$/server/public" />
       <recent name="$PROJECT_DIR$/client/node_modules" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/public/builder/elements" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/server/public/client" />
+      <recent name="$PROJECT_DIR$/server/public/client/assets/images" />
       <recent name="$PROJECT_DIR$/client/src" />
     </key>
   </component>
@@ -399,19 +526,22 @@
       <workItem from="1524262761449" duration="1799000" />
       <workItem from="1524371368671" duration="3382000" />
       <workItem from="1524407723434" duration="5065000" />
-      <workItem from="1524484680260" duration="11671000" />
+      <workItem from="1524484680260" duration="12351000" />
+      <workItem from="1524583035717" duration="2328000" />
+      <workItem from="1524664400715" duration="2633000" />
+      <workItem from="1524721504594" duration="5644000" />
+      <workItem from="1524731235643" duration="9266000" />
+      <workItem from="1524801330614" duration="8593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151315000" />
+    <option name="totallyTimeSpent" value="180459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1215" height="804" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2781893" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17201646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44984803" sideWeight="0.50288063" order="7" side_tool="true" content_ui="tabs" />
@@ -419,13 +549,14 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21884498" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41641337" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -473,212 +604,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/public/client/assets/images/pune-map.jpg" />
-    <entry file="file://$PROJECT_DIR$/server/public/client/assets/images/no-results.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/client/vendor.bcf53b9fbf233aa15e77.bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21840">
-          <caret line="0" column="1680735" lean-forward="false" selection-start-line="0" selection-start-column="1680735" selection-end-line="0" selection-end-column="1680735" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/ui/no-results-message/no-results-message.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/services/settings.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="110" column="11" lean-forward="false" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/userProfile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="50" column="28" lean-forward="false" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/ElementsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/ccbizon-map.js" />
-    <entry file="file://$PROJECT_DIR$/server/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/config/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/google-maps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/freelancer/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/wonder/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2982">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/googleMap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/slideShow.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/vebto-server/src/Files/UploadsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/vebto-server/src/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="53" column="26" lean-forward="false" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/ProjectDownloadController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="55" column="10" lean-forward="false" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/vebto-server/src/Files/FileDownloader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="69" column="61" lean-forward="false" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/ui/modal.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/files/uploads.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector-panel/background-panel/image-background-panel/image-background-panel.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/files/upload-file-modal/upload-file-modal.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="100" column="36" lean-forward="false" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/vebto-server/src/Files/PublicUploadsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-725">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector-panel/inspector-panel.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/freelancer/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,10 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13">
           <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <marker date="1523375637733" expanded="true" signature="1615:1622" ph="×" />
-            <marker date="1523375637733" expanded="true" signature="2293:2300" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -697,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="11" column="20" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="9" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,15 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/bolt/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -817,15 +720,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="20" />
-          <folding />
+          <caret line="5" column="20" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -833,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -841,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -849,6 +748,239 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/bolt/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/material.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="80" column="39" lean-forward="false" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/admin/admin-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/projects-resolver.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="60" column="58" lean-forward="false" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/dashboard-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/dashboard.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/wildcard-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/core/vebto-config.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/guards/disable-route-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/guards/guest-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/guards/auth-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/freelancer/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/freelancer/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="432" column="17" lean-forward="true" selection-start-line="432" selection-start-column="17" selection-end-line="432" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/guards/check-permissions-guard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/client/assets/icons.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/googleMap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/51/rKAAA0ENfqQffiJIsJS5WJ1Wreb7PLj9h5RP/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/O4Dcm5AXMkWAZwdQcra0U1c3fxD7z92iPLRR/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="132" column="11" lean-forward="false" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/zE42wq9h4dJ3FJMDBSxpbTkVqxCYrGqN84yC/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="131" selection-start-column="8" selection-end-line="140" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="132" column="14" lean-forward="true" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="140" column="50" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="154" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="154" column="11" lean-forward="false" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
