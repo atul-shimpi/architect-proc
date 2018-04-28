@@ -2,11 +2,14 @@
 
     var shopSubdomain = null;
     var host = 'http://ccbizon.com';
+    var designMode = true;
 
     if ( window.location !== window.parent.location ) {
         console.log('Design Mode, Url ' + window.parent.location.href);
         shopSubdomain = window.parent.location.href.split('/')[5];
+        designMode = true;
     } else {
+        designMode = false;
         console.log('Run Mode, url ' + window.location.href);
 
 
@@ -125,6 +128,9 @@
     }
 
     $(document).ready(function () {
+        if(!designMode) {
+            $('.item').removeClass('thumbNail');
+        }
         console.log('Shop subdomain : ' + shopSubdomain);
         setImgUrls(shopSubdomain);
         loadGoogleMap();

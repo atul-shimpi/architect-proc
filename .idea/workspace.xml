@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" afterPath="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" afterPath="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
       <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/BCPLeYJGvrPmOhQnXpHOJ9QpZ17FSW5nFrB5rLoj" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/sR74OfXNnMqHbkQv362IascZoqdCbZvfuyXhq0FW" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/v2N3zhAlfYCECItd0sgyUDd7EzN4YCdVRYBynI5N" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/server/storage/logs/laravel.log" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,13 +23,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="emailUs.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="emailUs.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="416">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slideShow.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/public/builder/elements/slideShow.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,8 +52,8 @@
       <file leaf-file-name="ccbizon-components.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="151" column="32" lean-forward="false" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+            <state relative-caret-position="468">
+              <caret line="135" column="24" lean-forward="false" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -126,7 +142,6 @@
         <option value="$PROJECT_DIR$/client/src/assets/icons.svg" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/googleMap.html" />
         <option value="$PROJECT_DIR$/server/public/builder/js/ccbizon-components.js" />
-        <option value="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/landing-page/config.json" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/minimal-blog/config.json" />
         <option value="$PROJECT_DIR$/server/public/builder/templates/minimal-dark/config.json" />
@@ -160,8 +175,9 @@
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js" />
-        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
+        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
       </list>
     </option>
   </component>
@@ -175,10 +191,10 @@
     <handled-path value="$PROJECT_DIR$/client/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1215" />
-    <option name="height" value="804" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="816" />
+    <option name="height" value="576" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -226,6 +242,23 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="slide-show" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -236,30 +269,6 @@
               <item name="builder" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
@@ -295,8 +304,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -379,34 +388,36 @@
       <workItem from="1524664400715" duration="2633000" />
       <workItem from="1524721504594" duration="5644000" />
       <workItem from="1524731235643" duration="9266000" />
-      <workItem from="1524801330614" duration="13799000" />
+      <workItem from="1524801330614" duration="14940000" />
+      <workItem from="1524929879384" duration="2278000" />
+      <workItem from="1524944289691" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185665000" />
+    <option name="totallyTimeSpent" value="189492000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1215" height="804" extended-state="6" />
+    <frame x="-8" y="-8" width="1217" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23539095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27572018" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44984803" sideWeight="0.50288063" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24468085" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1337386" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -453,13 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/agency/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/templates/agency/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -660,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,9 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="432" column="17" lean-forward="true" selection-start-line="432" selection-start-column="17" selection-end-line="432" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,9 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,80 +746,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/51/rKAAA0ENfqQffiJIsJS5WJ1Wreb7PLj9h5RP/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/O4Dcm5AXMkWAZwdQcra0U1c3fxD7z92iPLRR/js/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="132" column="11" lean-forward="false" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/zE42wq9h4dJ3FJMDBSxpbTkVqxCYrGqN84yC/js/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="137" column="0" lean-forward="false" selection-start-line="131" selection-start-column="8" selection-end-line="140" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="132" column="14" lean-forward="true" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="140" column="50" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="154" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/51/rKAAA0ENfqQffiJIsJS5WJ1Wreb7PLj9h5RP/js/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/O4Dcm5AXMkWAZwdQcra0U1c3fxD7z92iPLRR/js/ccbizon-components.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/zE42wq9h4dJ3FJMDBSxpbTkVqxCYrGqN84yC/js/ccbizon-components.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/m4KbNWlfRm7jPDUdrnCUF73CpuQoNkciH2XB/js/ccbizon-components.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js" />
     <entry file="file://$PROJECT_DIR$/server/public/builder/elements/form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js">
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="144" column="0" lean-forward="false" selection-start-line="132" selection-start-column="8" selection-end-line="161" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="416">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="151" column="32" lean-forward="false" selection-start-line="151" selection-start-column="32" selection-end-line="151" selection-end-column="32" />
+        <state relative-caret-position="468">
+          <caret line="135" column="24" lean-forward="false" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/emailUs.html">
+    <entry file="file://$PROJECT_DIR$/server/public/builder/elements/slideShow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="208">
+          <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
