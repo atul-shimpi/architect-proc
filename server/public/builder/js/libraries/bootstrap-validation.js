@@ -24,6 +24,7 @@
         helpBlocks: true
       },
             filter: function () {
+            filter: function () {
                 // return $(this).is(":visible"); // only validate elements you can see
                 return true; // validate everything
             }

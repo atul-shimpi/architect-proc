@@ -127,10 +127,12 @@
         //$('img').attr('src', `https://s3.amazonaws.com/${subDomain}/assets/images/tile.png`);
     }
 
+    if(!designMode) {
+        $('.item').removeClass('thumbNail');
+    }
+
     $(document).ready(function () {
-        if(!designMode) {
-            $('.item').removeClass('thumbNail');
-        }
+
         console.log('Shop subdomain : ' + shopSubdomain);
         setImgUrls(shopSubdomain);
         loadGoogleMap();
