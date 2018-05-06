@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Zipper;
 use Vebto\Bootstrap\Controller;
 use App\Services\ProjectRepository;
+require('modifyHtml.php');
 
 class PublishProjectController extends Controller
 {
@@ -77,6 +78,8 @@ class PublishProjectController extends Controller
         $this->deleteDirectory('/var/www/'.$project->name);
         mkdir('/var/www/'.$project->name);
         $this->recursive_copy($source, '/var/www/'.$project->name);
+
+        updatePublishedWebPages('/var/www/'.$project->name);
 
         return $this->success(['url' => 'http://www.'.$project->name.'ccbizon.com']);
     }

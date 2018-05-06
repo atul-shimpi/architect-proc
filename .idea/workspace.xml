@@ -3,12 +3,85 @@
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" afterPath="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/gitignore.js" afterPath="$PROJECT_DIR$/client/node_modules/globby/gitignore.js" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/index.js" afterPath="$PROJECT_DIR$/client/node_modules/globby/index.js" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/license" afterPath="$PROJECT_DIR$/client/node_modules/globby/license" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/package.json" afterPath="$PROJECT_DIR$/client/node_modules/globby/package.json" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/readme.md" afterPath="$PROJECT_DIR$/client/node_modules/globby/readme.md" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/shared/page-document.ts" afterPath="$PROJECT_DIR$/client/src/app/shared/page-document.ts" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change beforePath="$PROJECT_DIR$/dist/inline.f218b13deb386ce3b159.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/main.149321b8965180cb6c03.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="$PROJECT_DIR$/dist/stats.json" />
+      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/images/pune-map.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/pune-map.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide1.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide1.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide2.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide2.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide3.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide3.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide4.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide4.jpg" />
       <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/inline.f218b13deb386ce3b159.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/main.149321b8965180cb6c03.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/about.html" afterPath="$PROJECT_DIR$/server/public/newclub/about.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/blog.html" afterPath="$PROJECT_DIR$/server/public/newclub/blog.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/blog01.html" afterPath="$PROJECT_DIR$/server/public/newclub/blog01.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/config.json" afterPath="$PROJECT_DIR$/server/public/newclub/config.json" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/contact.html" afterPath="$PROJECT_DIR$/server/public/newclub/contact.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/custom_elements.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/framework.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/framework.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/styles.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/styles.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/template.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/template.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/theme.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/theme.css" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/blog01.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/blog01.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/loader.gif" afterPath="$PROJECT_DIR$/server/public/newclub/images/loader.gif" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/1.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/1.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/2.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/3.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port01.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port01.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port02.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port02.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port03.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port03.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port04.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port04.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port05.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port05.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port06.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port06.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/user.png" afterPath="$PROJECT_DIR$/server/public/newclub/images/user.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/zoom.png" afterPath="$PROJECT_DIR$/server/public/newclub/images/zoom.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/index.html" afterPath="$PROJECT_DIR$/server/public/newclub/index.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/framework.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/framework.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/scripts.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/template.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/template.js" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/newclub/thumbnail.png" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/work.html" afterPath="$PROJECT_DIR$/server/public/newclub/work.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/newclub/work01.html" afterPath="$PROJECT_DIR$/server/public/newclub/work01.html" />
+      <change beforePath="$PROJECT_DIR$/server/public/pune-map.jpg" afterPath="$PROJECT_DIR$/server/public/pune-map.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/server/resources/views/app.blade.php" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/7DBEMOJsCdiP99vJxrEFMw303cBmIKj8bwbrD1fD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/SsUz3Z5xm8yqq4FJ2fVhvHkUr64vAp395FKe1QTW" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" afterPath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" />
       <change beforePath="$PROJECT_DIR$/server/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/server/storage/logs/laravel.log" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,44 +96,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="new-project-page.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts">
+      <file leaf-file-name="modifyHtml.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+            <state relative-caret-position="299">
+              <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slideShow.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/elements/slideShow.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ccbizon-components.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="101" column="21" lean-forward="true" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap-validation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="480" column="10" lean-forward="true" selection-start-line="480" selection-start-column="10" selection-end-line="480" selection-end-column="10" />
+            <state relative-caret-position="13">
+              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#11;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-document.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/app/shared/page-document.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublishProjectController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple_html_dom.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/simple_html_dom.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-807">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,10 +171,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.git</find>
-      <find>-&gt;name</find>
-      <find>down</find>
-      <find>saving</find>
       <find>progre</find>
       <find>progress</find>
       <find>background-image</find>
@@ -107,17 +197,19 @@
       <find>start with blank</find>
       <find>framework</find>
       <find>carousel</find>
+      <find>Preview</find>
+      <find>href</find>
+      <find>baseUrl</find>
+      <find>chmod</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/client/src/app/admin</dir>
       <dir>$PROJECT_DIR$/client/node_modules/vebto-client/core</dir>
       <dir>$PROJECT_DIR$/client/node_modules</dir>
       <dir>$PROJECT_DIR$/client-2.0.5</dir>
-      <dir>$PROJECT_DIR$/client/src/app</dir>
       <dir>$PROJECT_DIR$/client/src/app/html-builder/html-builder</dir>
       <dir>$PROJECT_DIR$/client</dir>
       <dir>$PROJECT_DIR$/server/app</dir>
-      <dir>$PROJECT_DIR$/client/src/app/html-builder</dir>
       <dir>$PROJECT_DIR$/client/node_modules/vebto-client</dir>
       <dir>$PROJECT_DIR$/server/public/builder</dir>
       <dir>$PROJECT_DIR$/server/public/builder/templates/freelancer</dir>
@@ -126,6 +218,8 @@
       <dir>$PROJECT_DIR$/server</dir>
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/client/src</dir>
+      <dir>$PROJECT_DIR$/client/src/app/html-builder</dir>
+      <dir>$PROJECT_DIR$/client/src/app</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -134,13 +228,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/server/app/Http/Controllers/AnalyticsController.php" />
-        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/core/files/upload-file-modal/upload-file-modal.component.ts" />
-        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/core/files/uploads.service.ts" />
         <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.module.ts" />
         <option value="$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/ProjectDownloadController.php" />
-        <option value="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
         <option value="$PROJECT_DIR$/client/src/app/shared/projects/projects.service.ts" />
         <option value="$PROJECT_DIR$/client/src/app/html-builder/projects/active-project.ts" />
         <option value="$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector.component.ts" />
@@ -182,9 +272,13 @@
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/FBEcGtUb4NWdg3iLMXKljCN7sqdcU2Tq9Ef1/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/1/lUPOESyfBNwFESP6N9uwLCgT40b5LycpBZvC/js/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/emailUs.html" />
-        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
+        <option value="$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/js/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/client/src/app/shared/page-document.ts" />
+        <option value="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
+        <option value="$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php" />
       </list>
     </option>
   </component>
@@ -218,7 +312,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,34 +323,34 @@
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,17 +362,17 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/server/public/builder/js/libraries" />
-      <recent name="$PROJECT_DIR$/server/public" />
-      <recent name="$PROJECT_DIR$/client/node_modules" />
-      <recent name="$PROJECT_DIR$/client/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/app/Http/Controllers" />
       <recent name="$PROJECT_DIR$/server/public/builder/elements" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/server/public/client" />
       <recent name="$PROJECT_DIR$/server/public/client/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/public/builder/js/libraries" />
+      <recent name="$PROJECT_DIR$/server/public" />
+      <recent name="$PROJECT_DIR$/client/node_modules" />
       <recent name="$PROJECT_DIR$/client/src" />
     </key>
   </component>
@@ -346,33 +440,40 @@
       <workItem from="1525098689507" duration="126000" />
       <workItem from="1525199792537" duration="674000" />
       <workItem from="1525262475237" duration="29000" />
-      <workItem from="1525272929073" duration="5850000" />
+      <workItem from="1525272929073" duration="6541000" />
+      <workItem from="1525362297938" duration="1375000" />
+      <workItem from="1525372171864" duration="32000" />
+      <workItem from="1525372323912" duration="201000" />
+      <workItem from="1525473777316" duration="18000" />
+      <workItem from="1525515481846" duration="21018000" />
+      <workItem from="1525608366595" duration="2151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198696000" />
+    <option name="totallyTimeSpent" value="224182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1217" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2164609" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23573825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44984803" sideWeight="0.50288063" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52887535" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30708662" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -419,62 +520,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/resume/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/squad/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/stanley/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/storystrap/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/stylish-portfolio/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/wonder/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/templates/bolt/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/material.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -608,11 +653,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/client/assets/icons.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/client/assets/icons.svg" />
     <entry file="file://$PROJECT_DIR$/server/public/builder/elements/googleMap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -637,17 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#4;n#form#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="9" column="74" lean-forward="true" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="268" column="34" lean-forward="true" selection-start-line="268" selection-start-column="34" selection-end-line="268" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,34 +706,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-130">
           <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <marker date="1523375637969" expanded="true" signature="1422:1429" ph="×" />
-            <marker date="1523375637969" expanded="true" signature="2100:2107" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/shared/page-document.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="8" column="107" lean-forward="false" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="107" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,23 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="101" column="21" lean-forward="true" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,26 +728,121 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="4075" lean-forward="false" selection-start-line="5" selection-start-column="4067" selection-end-line="5" selection-end-column="4075" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="480" column="10" lean-forward="true" selection-start-line="480" selection-start-column="10" selection-end-line="480" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="6136">
+          <caret line="480" column="10" lean-forward="false" selection-start-line="480" selection-start-column="10" selection-end-line="480" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/public/builder/elements/slideShow.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="13">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="66" column="7" lean-forward="false" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/inspector/inspector.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="82" column="11" lean-forward="false" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/js/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2301">
+          <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/simple_html_dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#11;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/shared/page-document.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
           <folding />
         </state>
       </provider>

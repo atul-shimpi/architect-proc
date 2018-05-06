@@ -111,9 +111,12 @@ export class PageDocument {
      * Add base html element to document.
      */
     protected addBaseElement() {
+        console.log('Adding base element');
         let base = this.pageDocument.createElement('base') as HTMLBaseElement;
         base.id = 'base';
         base.href = this.baseUrl;
+
+        ///base.name = 'himu';
         this.pageDocument.head.insertBefore(base, this.pageDocument.head.firstChild);
     }
 
