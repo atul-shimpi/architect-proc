@@ -8,7 +8,7 @@
 
 @section('angular-scripts')
     {{--angular scripts begin--}}
-		<script type="text/javascript" src="client/inline.816aafdae60bfda2db59.bundle.js"></script>
+		<script type="text/javascript" src="client/inline.279ebd5225951343d469.bundle.js"></script>
 		<script type="text/javascript" src="client/polyfills.35260d18580cdfca043e.bundle.js"></script>
 		<script type="text/javascript" src="client/vendor.96589f36b87a5ccddcfc.bundle.js"></script>
 		<script type="text/javascript" src="client/main.70f30b7a343c5de17073.bundle.js"></script>

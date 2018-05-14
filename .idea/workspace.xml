@@ -3,86 +3,466 @@
   <component name="ChangeListManager">
     <list default="true" id="bb58dc39-a8e1-4a2a-a6ba-3e458ab220b9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/gitignore.js" afterPath="$PROJECT_DIR$/client/node_modules/globby/gitignore.js" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/index.js" afterPath="$PROJECT_DIR$/client/node_modules/globby/index.js" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/license" afterPath="$PROJECT_DIR$/client/node_modules/globby/license" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/package.json" afterPath="$PROJECT_DIR$/client/node_modules/globby/package.json" />
-      <change beforePath="$PROJECT_DIR$/client/node_modules/globby/readme.md" afterPath="$PROJECT_DIR$/client/node_modules/globby/readme.md" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/page-document.ts" afterPath="$PROJECT_DIR$/client/src/app/shared/page-document.ts" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/inline.f218b13deb386ce3b159.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/main.149321b8965180cb6c03.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="$PROJECT_DIR$/dist/stats.json" />
-      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/images/pune-map.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/pune-map.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide1.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide1.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide2.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide2.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide3.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide3.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide4.jpg" afterPath="$PROJECT_DIR$/server/public/builder/images/slide-show/Slide4.jpg" />
+      <change beforePath="$PROJECT_DIR$/dist/3rdpartylicenses.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/analytics.module.20ff5873353bd182845b.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/app-admin.module.f2ba0d44443ca4ba3b74.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/advanced-editor-styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/iframe.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/ads-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/brush-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/button-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/documents-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/drop-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/facebook-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/form-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/google-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/header-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/paint-palette-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/puzzle-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/settings-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/shield-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/source-code-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/trash-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/twitter-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/web-design-custom.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/analytics.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/american-express.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/dinners-club.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/discover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/jcb.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/mastercard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/paypal.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/visa.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/billing/western-union.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/default_project_thumbnail.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/logo-dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/logo-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/no-results.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/10.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/11.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/12.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/13.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/14.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/15.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/17.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/18.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/19.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/20.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/21.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/22.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/23.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/24.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/25.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/26.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/27.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/28.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/images/textures/9.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ViewSelector2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ace.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-beautify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-chromevox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-elastic_tabstops_lite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-emmet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-error_marker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-keybinding_menu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-language_tools.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-linking.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-modelist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-old_ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-searchbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-settings_menu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-spellcheck.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-split.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-static_highlight.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-statusbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-textarea.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-themelist.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/ext-whitespace.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/keybinding-emacs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/keybinding-vim.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-abap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-abc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-actionscript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ada.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-apache_conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-applescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-asciidoc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-assembly_x86.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-autohotkey.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-batchfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-bro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-c9search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-c_cpp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-cirru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-clojure.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-cobol.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-coffee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-coldfusion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-csharp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-curly.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-d.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-dart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-diff.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-django.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-dockerfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-dot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-drools.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-eiffel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ejs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-elixir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-elm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-erlang.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-forth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-fortran.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ftl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-gcode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-gherkin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-glsl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-gobstones.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-golang.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-graphqlschema.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-groovy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-haml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-haskell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-haskell_cabal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-haxe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-hjson.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-html_elixir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-html_ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ini.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-io.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-jack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-jade.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-java.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-json.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-jsoniq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-jsp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-jsx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-julia.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-kotlin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-latex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-lean.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-liquid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-lisp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-live_script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-livescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-logiql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-lsl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-lua.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-luapage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-lucene.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-makefile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-markdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mask.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-matlab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-maze.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mips_assembler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mipsassembler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mushcode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-mysql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-nix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-nsis.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-objectivec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ocaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-pascal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-perl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-pgsql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-php.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-pig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-plain_text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-powershell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-praat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-prolog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-properties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-protobuf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-python.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-r.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-razor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-rdoc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-rhtml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-rst.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-rust.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-scad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-scala.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-scheme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-scss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sjs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-smarty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-snippets.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-soy_template.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-space.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sparql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-sqlserver.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-stylus.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-svg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-swift.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-swig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-tcl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-tex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-textile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-toml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-tsx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-turtle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-twig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-typescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-vala.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-vbscript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-velocity.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-verilog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-vhdl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-wollok.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-xml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-xquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/mode-yaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/abap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/abc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/actionscript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ada.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/apache_conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/applescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/asciidoc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/assembly_x86.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/autohotkey.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/batchfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/bro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/c9search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/c_cpp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/cirru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/clojure.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/cobol.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/coffee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/coldfusion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/csharp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/curly.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/d.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/dart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/diff.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/django.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/dockerfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/dot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/drools.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/eiffel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ejs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/elixir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/elm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/erlang.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/forth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/fortran.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ftl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/gcode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/gherkin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/glsl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/gobstones.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/golang.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/graphqlschema.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/groovy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/haml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/haskell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/haskell_cabal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/haxe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/hjson.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/html_elixir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/html_ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ini.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/io.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/jack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/jade.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/java.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/json.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/jsoniq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/jsp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/jsx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/julia.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/kotlin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/latex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/lean.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/liquid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/lisp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/live_script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/livescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/logiql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/lsl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/lua.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/luapage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/lucene.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/makefile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/markdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mask.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/matlab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/maze.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mips_assembler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mipsassembler.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mushcode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/mysql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/nix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/nsis.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/objectivec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ocaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/pascal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/perl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/pgsql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/php.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/pig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/plain_text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/powershell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/praat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/prolog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/properties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/protobuf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/python.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/r.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/razor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/rdoc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/rhtml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/rst.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/ruby.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/rust.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/scad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/scala.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/scheme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/scss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sjs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/smarty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/snippets.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/soy_template.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/space.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sparql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/sqlserver.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/stylus.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/svg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/swift.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/swig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/tcl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/tex.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/textile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/toml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/tsx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/turtle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/twig.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/typescript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/vala.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/vbscript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/velocity.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/verilog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/vhdl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/wollok.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/xml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/xquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/snippets/yaml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-ambiance.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-chaos.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-chrome.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-clouds.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-clouds_midnight.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-cobalt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-crimson_editor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-dawn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-dreamweaver.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-eclipse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-gob.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-gruvbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-idle_fingers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-iplastic.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-katzenmilch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-kr_theme.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-kuroir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-merbivore.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-merbivore_soft.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-mono_industrial.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-monokai.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-pastel_on_dark.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-solarized_dark.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-solarized_light.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-sqlserver.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-terminal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-textmate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-tomorrow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-tomorrow_night.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-tomorrow_night_blue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-tomorrow_night_bright.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-tomorrow_night_eighties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-twilight.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-vibrant_ink.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/theme-xcode.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-coffee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-html.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-javascript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-json.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-lua.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-php.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-xml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/ace/worker-xquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/plugins/codesample/css/prism.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/js/tinymce/tinymce.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/billing.module.89402c10f3e0f86ce2bb.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/html-builder.module.7eb4016591d509e4e227.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/inline.816aafdae60bfda2db59.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/main.70f30b7a343c5de17073.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/polyfills.35260d18580cdfca043e.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/stats.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.7cc6fa29c88d63f379d8.bundle.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendor.96589f36b87a5ccddcfc.bundle.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" afterPath="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/inline.f218b13deb386ce3b159.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/public/client/main.149321b8965180cb6c03.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/about.html" afterPath="$PROJECT_DIR$/server/public/newclub/about.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/blog.html" afterPath="$PROJECT_DIR$/server/public/newclub/blog.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/blog01.html" afterPath="$PROJECT_DIR$/server/public/newclub/blog01.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/config.json" afterPath="$PROJECT_DIR$/server/public/newclub/config.json" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/contact.html" afterPath="$PROJECT_DIR$/server/public/newclub/contact.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/custom_elements.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/custom_elements.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/font-awesome.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/framework.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/framework.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/styles.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/template.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/template.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/css/theme.css" afterPath="$PROJECT_DIR$/server/public/newclub/css/theme.css" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-brands-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-regular-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fa-solid-900.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/server/public/newclub/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/blog01.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/blog01.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/loader.gif" afterPath="$PROJECT_DIR$/server/public/newclub/images/loader.gif" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/1.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/2.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/2.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/3.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/3.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port01.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port01.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port02.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port02.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port03.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port03.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port04.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port04.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port05.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port05.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port06.jpg" afterPath="$PROJECT_DIR$/server/public/newclub/images/portfolio/port06.jpg" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/user.png" afterPath="$PROJECT_DIR$/server/public/newclub/images/user.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/images/zoom.png" afterPath="$PROJECT_DIR$/server/public/newclub/images/zoom.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/index.html" afterPath="$PROJECT_DIR$/server/public/newclub/index.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/framework.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/framework.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/jquery.min.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/scripts.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/scripts.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/js/template.js" afterPath="$PROJECT_DIR$/server/public/newclub/js/template.js" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/thumbnail.png" afterPath="$PROJECT_DIR$/server/public/newclub/thumbnail.png" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/work.html" afterPath="$PROJECT_DIR$/server/public/newclub/work.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/newclub/work01.html" afterPath="$PROJECT_DIR$/server/public/newclub/work01.html" />
-      <change beforePath="$PROJECT_DIR$/server/public/pune-map.jpg" afterPath="$PROJECT_DIR$/server/public/pune-map.jpg" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/html-builder.module.7eb4016591d509e4e227.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/public/client/inline.816aafdae60bfda2db59.bundle.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/server/resources/views/app.blade.php" afterPath="$PROJECT_DIR$/server/resources/views/app.blade.php" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/61/52/6152b78987c84614d1786a2c16555a2fdeff4bd9" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/8f/83/8f83031b05e3800605ae6ff65a1e370bf33854ee" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" afterPath="$PROJECT_DIR$/server/storage/framework/cache/data/f1/d7/f1d74a8dfba3be0b7200ada856877e884be3fed3" />
-      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/SsUz3Z5xm8yqq4FJ2fVhvHkUr64vAp395FKe1QTW" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/WPEudk7CEoLVRmDAzXavQl8JmLVIawqGL63j7qWC" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/server/storage/framework/sessions/o8mxRaCqaE05MNJtDaHtU2B8Kx7YTP37GI9HA7Q7" afterPath="" />
       <change beforePath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" afterPath="$PROJECT_DIR$/server/storage/framework/views/17fa5a230f15a4b5651d4db0627be2658c43cfbb.php" />
-      <change beforePath="$PROJECT_DIR$/server/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/server/storage/logs/laravel.log" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,64 +476,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="modifyHtml.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php">
+      <file leaf-file-name="ccbizon-components.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+            <state relative-caret-position="182">
+              <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/index.html">
+      <file leaf-file-name="link-editor.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#11;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page-document.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/app/shared/page-document.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+            <state relative-caret-position="311">
+              <caret line="85" column="27" lean-forward="false" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PublishProjectController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+            <state relative-caret-position="195">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simple_html_dom.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/simple_html_dom.php">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-807">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="385">
+              <caret line="165" column="51" lean-forward="false" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="link-editor.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="57" column="23" lean-forward="false" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -171,7 +538,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>progre</find>
       <find>progress</find>
       <find>background-image</find>
       <find>id=</find>
@@ -201,6 +567,7 @@
       <find>href</find>
       <find>baseUrl</find>
       <find>chmod</find>
+      <find>enter web</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/client/src/app/admin</dir>
@@ -228,8 +595,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.module.ts" />
-        <option value="$PROJECT_DIR$/client/src/app/dashboard/new-project-page/new-project-page.component.ts" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/ProjectDownloadController.php" />
         <option value="$PROJECT_DIR$/client/src/app/shared/projects/projects.service.ts" />
         <option value="$PROJECT_DIR$/client/src/app/html-builder/projects/active-project.ts" />
@@ -275,10 +640,12 @@
         <option value="$PROJECT_DIR$/server/public/builder/js/libraries/bootstrap-validation.js" />
         <option value="$PROJECT_DIR$/server/public/builder/elements/slideShow.html" />
         <option value="$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/js/ccbizon-components.js" />
-        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
         <option value="$PROJECT_DIR$/client/src/app/shared/page-document.ts" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php" />
         <option value="$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php" />
+        <option value="$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js" />
+        <option value="$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.html" />
+        <option value="$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.ts" />
       </list>
     </option>
   </component>
@@ -312,7 +679,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,41 +689,34 @@
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="architect-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="architect-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/learning/node/balaji" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
@@ -446,34 +805,38 @@
       <workItem from="1525372323912" duration="201000" />
       <workItem from="1525473777316" duration="18000" />
       <workItem from="1525515481846" duration="21018000" />
-      <workItem from="1525608366595" duration="2151000" />
+      <workItem from="1525608366595" duration="5947000" />
+      <workItem from="1525628515709" duration="17000" />
+      <workItem from="1525628665070" duration="20000" />
+      <workItem from="1525753566244" duration="1228000" />
+      <workItem from="1525812569480" duration="102000" />
+      <workItem from="1526282468094" duration="4047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224182000" />
+    <option name="totallyTimeSpent" value="233392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1217" height="812" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23573825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44984803" sideWeight="0.50288063" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30708662" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33700788" sideWeight="0.49711934" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -520,34 +883,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/app/material.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="80" column="39" lean-forward="false" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/admin/admin-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-390">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/node_modules/vebto-client/auth/auth.routing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/dashboard/projects-resolver.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -780,54 +1115,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/js/ccbizon-components.js">
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/js/ccbizon-components.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/index.html" />
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2301">
-          <caret line="177" column="35" lean-forward="false" selection-start-line="177" selection-start-column="35" selection-end-line="177" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/simple_html_dom.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-807">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/public/storage/projects/4/fHz8ZM23gp6OulHYk5h9iqsktolbg3E1yqzJ/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#11;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -835,14 +1128,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PublishProjectController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/simple_html_dom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/builder/js/libraries/ccbizon-components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/modifyHtml.php">
+    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        <state relative-caret-position="368">
+          <caret line="57" column="23" lean-forward="false" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/html-builder/live-preview/link-editor/link-editor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="85" column="27" lean-forward="false" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="165" column="51" lean-forward="false" selection-start-line="165" selection-start-column="51" selection-end-line="165" selection-end-column="51" />
           <folding />
         </state>
       </provider>

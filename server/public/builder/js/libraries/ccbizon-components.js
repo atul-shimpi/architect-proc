@@ -53,7 +53,7 @@ function initMap() {
 
 
     //user is in preview mode on local host
-    if ( window.location.host.indexOf('localhost') !== -1 ) {
+    /*if ( window.location.host.indexOf('localhost') !== -1 ) {
         console.log('Running on localhost');
         host = 'http://localhost:3000';
         shopSubdomain = window.location.pathname.split('/')[window.location.pathname.split('/').length - 1];
@@ -63,7 +63,7 @@ function initMap() {
     if ( window.location.host.indexOf('ccbizon.com') !== -1 ) {
         console.log('Running on production');
         shopSubdomain = window.location.host.split('.')[0];
-    }
+    }*/
 
     console.log('Url' + host + '/business_user/shops.json?subdomain=' + shopSubdomain);
 
