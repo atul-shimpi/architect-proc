@@ -55,6 +55,11 @@ export class LinkEditorComponent {
         this.closeAndEmitChanges();
     }
 
+    public setTitle() {
+      this.node.innerText = this.hrefModel;
+      this.closeAndEmitChanges();
+    }
+
     public setUrl() {
         this.node.href = this.hrefModel;
         this.closeAndEmitChanges();

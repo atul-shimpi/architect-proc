@@ -72,4 +72,21 @@
             </div>
         </form>
     </mat-tab>
+
+  <mat-tab>
+    <ng-template mat-tab-label>
+      <span trans>Title</span>
+    </ng-template>
+
+    <form (ngSubmit)="setTitle()" ngNativeValidate>
+      <div class="input-container">
+        <input type="title" name="title" [(ngModel)]="hrefModel" placeholder="link title" trans-placeholder required>
+      </div>
+
+      <div class="buttons">
+        <button (click)="close()" type="button" mat-button trans>Cancel</button>
+        <button [disabled]="!hrefModel" type="submit" mat-raised-button color="accent" trans>Change</button>
+      </div>
+    </form>
+  </mat-tab>
 </mat-tab-group>
